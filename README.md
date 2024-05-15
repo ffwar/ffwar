@@ -7,9 +7,15 @@ The method used for calculating WAR is simulation. For each player, and each sea
 **How Games were Simulated**
 
 For these calculations the following league settings were used:
+
 12 Teams
+
 2 QB
+
 2 RB
+
 2 WR
+
 2 Flex
+
 1 TE
